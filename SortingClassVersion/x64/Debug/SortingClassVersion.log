@@ -1,0 +1,9 @@
+﻿  main.cpp
+D:\DavyTregellas\SortingClassVersion\SortingClassVersion\main.cpp(388,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\DavyTregellas\SortingClassVersion\SortingClassVersion\main.cpp(390,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\DavyTregellas\SortingClassVersion\SortingClassVersion\main.cpp(393,8): warning C4101: 'starttime': unreferenced local variable
+D:\DavyTregellas\SortingClassVersion\SortingClassVersion\main.cpp(393,19): warning C4101: 'endtime': unreferenced local variable
+D:\DavyTregellas\SortingClassVersion\SortingClassVersion\main.cpp(394,8): warning C4101: 'totaltime': unreferenced local variable
+  SortingClassVersion.vcxproj -> D:\DavyTregellas\SortingClassVersion\x64\Debug\SortingClassVersion.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
